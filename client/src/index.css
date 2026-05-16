@@ -29,7 +29,7 @@ button, input, select, textarea {
   color: white;
 }
 
-..btn-primary {
+.btn-primary {
   background: linear-gradient(135deg, #7c3aed, #22d3ee);
   color: white;
   box-shadow: 0 20px 60px rgba(124, 58, 237, 0.2);
